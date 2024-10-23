@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/MartianMono-Bold.ttf",
+      "sha1": "94b8f27c05f39189de940dbc86e7e93328caab1f"
+    },
+    {
+      "path": "assets/fonts/MartianMono-ExtraBold.ttf",
+      "sha1": "47a011685283385a8f7d0b0b333f12462f36c5e1"
+    },
+    {
+      "path": "assets/fonts/MartianMono-ExtraLight.ttf",
+      "sha1": "ad49a20a4e5ed3f0fab03e27dd8c15c0bb3d1b31"
+    },
+    {
+      "path": "assets/fonts/MartianMono-Light.ttf",
+      "sha1": "c08bf06461d4a4cce4c0994801522fac0c19063b"
+    },
+    {
+      "path": "assets/fonts/MartianMono-Medium.ttf",
+      "sha1": "e3655fae38472e48d2cb8a37eff0aa0ab171dc97"
+    },
+    {
+      "path": "assets/fonts/MartianMono-Regular.ttf",
+      "sha1": "47a4a7e7827a6dea21ae7a89aeb1e4fdd770b931"
+    },
+    {
+      "path": "assets/fonts/MartianMono-SemiBold.ttf",
+      "sha1": "7fb2db82ed0cad20fa194ae045cd9ad7b877c62e"
+    },
+    {
+      "path": "assets/fonts/MartianMono-Thin.ttf",
+      "sha1": "7da539d51166721ded2a285a4013fe990926da9c"
+    }
+  ]
+}

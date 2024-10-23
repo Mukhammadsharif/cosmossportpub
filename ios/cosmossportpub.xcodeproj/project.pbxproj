@@ -15,6 +15,14 @@
 		3A49887BCDD5D2B1098C6A81 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 555F1548DA08F20CD727D0D6 /* PrivacyInfo.xcprivacy */; };
 		7699B88040F8A987B510C191 /* libPods-cosmossportpub-cosmossportpubTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-cosmossportpub-cosmossportpubTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		BCF354914A1440E792A2E6A4 /* MartianMono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F500AECA9AF844BFB0656854 /* MartianMono-Bold.ttf */; };
+		B75377C1F1264F078A3B4296 /* MartianMono-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 387F41CDC0714386B3043054 /* MartianMono-ExtraBold.ttf */; };
+		55DFFB0F4ED3400BAEB2BEC9 /* MartianMono-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA31214FA600412D9F42CBA3 /* MartianMono-ExtraLight.ttf */; };
+		7A039C8DDAE44D43AFF7705E /* MartianMono-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 94782ACB60234D09BCEA6FE6 /* MartianMono-Light.ttf */; };
+		014C8398D39540C0B5325B21 /* MartianMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1FD022A136E84438B8E1786C /* MartianMono-Medium.ttf */; };
+		D6478C317ABF4ED89C107D5B /* MartianMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD18E9BEA122403F83F89C96 /* MartianMono-Regular.ttf */; };
+		71CA5E009472496A8F024E42 /* MartianMono-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE614652EEEE4FE0B895238E /* MartianMono-SemiBold.ttf */; };
+		ED94090F7A0B48F280B53980 /* MartianMono-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9DBB746C53924D419E90A47B /* MartianMono-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = cosmossportpub/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-cosmossportpub-cosmossportpubTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cosmossportpub-cosmossportpubTests.release.xcconfig"; path = "Target Support Files/Pods-cosmossportpub-cosmossportpubTests/Pods-cosmossportpub-cosmossportpubTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F500AECA9AF844BFB0656854 /* MartianMono-Bold.ttf */ = {isa = PBXFileReference; name = "MartianMono-Bold.ttf"; path = "../assets/fonts/MartianMono-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		387F41CDC0714386B3043054 /* MartianMono-ExtraBold.ttf */ = {isa = PBXFileReference; name = "MartianMono-ExtraBold.ttf"; path = "../assets/fonts/MartianMono-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BA31214FA600412D9F42CBA3 /* MartianMono-ExtraLight.ttf */ = {isa = PBXFileReference; name = "MartianMono-ExtraLight.ttf"; path = "../assets/fonts/MartianMono-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		94782ACB60234D09BCEA6FE6 /* MartianMono-Light.ttf */ = {isa = PBXFileReference; name = "MartianMono-Light.ttf"; path = "../assets/fonts/MartianMono-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1FD022A136E84438B8E1786C /* MartianMono-Medium.ttf */ = {isa = PBXFileReference; name = "MartianMono-Medium.ttf"; path = "../assets/fonts/MartianMono-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AD18E9BEA122403F83F89C96 /* MartianMono-Regular.ttf */ = {isa = PBXFileReference; name = "MartianMono-Regular.ttf"; path = "../assets/fonts/MartianMono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CE614652EEEE4FE0B895238E /* MartianMono-SemiBold.ttf */ = {isa = PBXFileReference; name = "MartianMono-SemiBold.ttf"; path = "../assets/fonts/MartianMono-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9DBB746C53924D419E90A47B /* MartianMono-Thin.ttf */ = {isa = PBXFileReference; name = "MartianMono-Thin.ttf"; path = "../assets/fonts/MartianMono-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +143,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				359B81E31EC64D58AE30ED51 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -152,6 +169,22 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		359B81E31EC64D58AE30ED51 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				F500AECA9AF844BFB0656854 /* MartianMono-Bold.ttf */,
+				387F41CDC0714386B3043054 /* MartianMono-ExtraBold.ttf */,
+				BA31214FA600412D9F42CBA3 /* MartianMono-ExtraLight.ttf */,
+				94782ACB60234D09BCEA6FE6 /* MartianMono-Light.ttf */,
+				1FD022A136E84438B8E1786C /* MartianMono-Medium.ttf */,
+				AD18E9BEA122403F83F89C96 /* MartianMono-Regular.ttf */,
+				CE614652EEEE4FE0B895238E /* MartianMono-SemiBold.ttf */,
+				9DBB746C53924D419E90A47B /* MartianMono-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -249,6 +282,14 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3A49887BCDD5D2B1098C6A81 /* PrivacyInfo.xcprivacy in Resources */,
+				BCF354914A1440E792A2E6A4 /* MartianMono-Bold.ttf in Resources */,
+				B75377C1F1264F078A3B4296 /* MartianMono-ExtraBold.ttf in Resources */,
+				55DFFB0F4ED3400BAEB2BEC9 /* MartianMono-ExtraLight.ttf in Resources */,
+				7A039C8DDAE44D43AFF7705E /* MartianMono-Light.ttf in Resources */,
+				014C8398D39540C0B5325B21 /* MartianMono-Medium.ttf in Resources */,
+				D6478C317ABF4ED89C107D5B /* MartianMono-Regular.ttf in Resources */,
+				71CA5E009472496A8F024E42 /* MartianMono-SemiBold.ttf in Resources */,
+				ED94090F7A0B48F280B53980 /* MartianMono-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
