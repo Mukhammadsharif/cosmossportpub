@@ -105,7 +105,7 @@ export default function Events() {
 
                 <TouchableOpacity
                   style={styles.broadcast}
-                  onPress={() => navigation.navigate('Grill')}>
+                  onPress={() => navigation.navigate('Golf')}>
                   <ImageBackground source={CardBg} style={styles.bgImage}>
                     <Text style={styles.liga}>
                       {
